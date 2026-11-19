@@ -26,7 +26,7 @@ The tool is **refresh-driven**, not a continuously running service: source edits
 
 ## Reproduce the demo
 
-> The completed workbook (`OpsFlow_Demo.xlsx`) is intended to be uploaded separately after checking it for private/company information and verifying that it contains the finished Power Query queries. The README and screenshot alone do not run the analyzer.
+> Download OpsFlow_Demo.xlsx from this repository and open it in Microsoft Excel to explore the working quality analyzer.
 
 1. Open `OpsFlow_Demo.xlsx` in a desktop version of Excel that supports Power Query and dynamic-array `FILTER` formulas (such as Microsoft 365 Excel).
 2. Open the `OpsFlowRecords` worksheet. It contains synthetic demonstration records; edit **only this source sheet**.
