@@ -1,0 +1,10 @@
+﻿Record ID,Request Type,Owner,Priority,Status
+1001,Hardware,Alex,High,Open
+1002,Software,Morgan,Medium,Open
+1003,Network,,Urgent,Open
+1004,Hardware,Jamie,Low,Closed
+1005,Software,Taylor,High,Open
+1002,Network,Chris,Medium,Open
+1006,Hardware,Alex,High,Open
+1007,Software,Morgan,Low,Closed
+1008,Network,Jordan,Medium,Open
